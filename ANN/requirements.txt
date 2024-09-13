@@ -1,0 +1,16 @@
+tensorflow==2.15.0
+pandas
+numpy==1.26.2
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+ipykernel
+seaborn
+statsmodels
+
+
+
+
+
+

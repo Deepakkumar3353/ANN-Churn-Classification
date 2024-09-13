@@ -7,7 +7,7 @@ import pickle
 
 ## Load the trained model
 
-model = tf.keras.models.load_model('model.h5')
+model = tf.keras.models.load_model('ANN/model.h5')
 
 
 # Load the encoder and scaler
